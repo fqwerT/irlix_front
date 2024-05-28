@@ -1,0 +1,1 @@
+export const buttons = ['friends','posts','settings']
